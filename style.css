@@ -244,3 +244,19 @@ h2.heading-text::after {
   color:#777777;
 }
 
+.tools{
+  background-color: white;
+    margin: 5px;
+    width: 48%;
+    margin-bottom: 5%;
+    padding: 13px;
+}
+ li{
+  list-style-type: none;
+  font-size: 20px;
+  
+}
+
+.tools h3{
+  color: #A86427;
+}
