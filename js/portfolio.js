@@ -42,7 +42,7 @@ $(document).ready(function(){
      "A basic Javascript calculator, to handle basic mathematical operations, this project was developed to demonstrate the power of html, css and javascript in Design. and how much javascript can be used to make web interface dynamic.",
      "A Pomodoro click Build on javascript which can be used comfortably to keep track of time while working, the design and functionality was all achieved using HTML, CSS BOOTSRAP and JQuery.",
      "A tic tac toe game built to demonstrate how much you can take control of the web browser with javascript, with this game you stand the chance to compete with the system and the logic has been carefully crafted to make it reall between you and the system as the players.",
-     "Simon game was also build on Jquery, it is a very good mind game to keep the mind sharp as you play with sound and colors."
+     "Simon game was also built on Jquery, it is a very good mind game to keep the mind sharp as you play with sound and colors."
      ];
 
      //javascript projects div
